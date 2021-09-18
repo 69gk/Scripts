@@ -1,5 +1,6 @@
 while _G.Mode == true do
     game.Players.LocalPlayer:Kick("Script Disabled")
+    wait()
 end
 
 --// Services \\--
