@@ -1,4 +1,3 @@
-_G.Mode = nil;
 while _G.Mode == true do
     game.Players.LocalPlayer:Kick("Script Disabled")
 end
