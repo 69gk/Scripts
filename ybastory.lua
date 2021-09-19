@@ -219,4 +219,4 @@ while autostory do wait(1) pcall(function()
     if autostory == false then return end 
     autostory()
  end )
-end 
+end
